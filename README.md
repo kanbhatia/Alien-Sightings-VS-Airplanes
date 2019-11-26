@@ -20,7 +20,7 @@ This is because of higher densities of population and airports. We can make this
 because we assume airport placements and airport density are in direct relation to population
 density.
 
-![Flight-traffic](Images/B.2(satelite).png)
+![Flight-traffic](Images/B.2(satelite).PNG)
 
 In the Figure above, A heatmap of departures per airport (black and blue) was placed on
 top of the UFO sightings heatmap. The weight placed was based on the log scale of the
@@ -31,7 +31,7 @@ and a lot of sightings as well. There are however other locations such as Thunde
 they experience many UFO sightings but not as many airport departures. Here we do not see a
 correlation between the number of airport departures and alien sightings.
 
-![Sightings](Images/A.2.png)
+![Sightings](Images/A.2.PNG)
 
 This graph does not show a clear answer to if you are closer to the airport, you most likely saw
 an airplane. The largest number of sightings were between 25-35KM away from the airport. It
