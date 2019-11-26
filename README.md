@@ -11,7 +11,7 @@ these UFOs is that the witnesses have mistaken human aircrafts for something the
 did not recognize. It is this theory that we explore in-depth, by comparing various
 markers of flight activity with the sighting of UFOs.
 
-![Airport Locations vs sightings](Figures/A.1(satelite).png)
+![Airport-Locations](Images/A.1(satelite).png)
 
 The Figure above shows a heatmap of the sightings in Ontario. The markers represent
 the locations of Ontario’s most popular airports. We can see that there is a clear correlation as
@@ -20,7 +20,7 @@ This is because of higher densities of population and airports. We can make this
 because we assume airport placements and airport density are in direct relation to population
 density.
 
-![Flight traffic vs sightings](Figures/B.2(satelite).png)
+![Flight-traffic](Images/B.2(satelite).png)
 
 In the Figure above, A heatmap of departures per airport (black and blue) was placed on
 top of the UFO sightings heatmap. The weight placed was based on the log scale of the
@@ -31,7 +31,7 @@ and a lot of sightings as well. There are however other locations such as Thunde
 they experience many UFO sightings but not as many airport departures. Here we do not see a
 correlation between the number of airport departures and alien sightings.
 
-![Sightings vs distance vs airport](Figures/A.2.png)
+![Sightings](Images/A.2.png)
 
 This graph does not show a clear answer to if you are closer to the airport, you most likely saw
 an airplane. The largest number of sightings were between 25-35KM away from the airport. It
