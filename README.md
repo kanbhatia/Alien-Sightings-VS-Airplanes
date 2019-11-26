@@ -31,7 +31,7 @@ and a lot of sightings as well. There are however other locations such as Thunde
 they experience many UFO sightings but not as many airport departures. Here we do not see a
 correlation between the number of airport departures and alien sightings.
 
-![Sightings](Images/A.2.PNG)
+![Sightings](Images/A2.PNG)
 
 This graph does not show a clear answer to if you are closer to the airport, you most likely saw
 an airplane. The largest number of sightings were between 25-35KM away from the airport. It
