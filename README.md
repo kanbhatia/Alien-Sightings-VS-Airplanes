@@ -11,7 +11,7 @@ these UFOs is that the witnesses have mistaken human aircrafts for something the
 did not recognize. It is this theory that we explore in-depth, by comparing various
 markers of flight activity with the sighting of UFOs.
 
-![Airport-Locations](/Images/A.1(satelite).PNG
+![Airport-Locations](Images/A.1(satelite).PNG
 
 The Figure above shows a heatmap of the sightings in Ontario. The markers represent
 the locations of Ontario’s most popular airports. We can see that there is a clear correlation as
